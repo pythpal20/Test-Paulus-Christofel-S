@@ -1,0 +1,7 @@
+Flaky Test
+1. What is a flaky test ?
+ans. : A flaky test is a test that both passes and fails periodically without any code changes
+2. An element in a website is using ajax/javascript to show the data (processed as
+asynchronous). What do you do to test that element?
+ans. : using automation test tools exp. Postman or selenium
+3. 
